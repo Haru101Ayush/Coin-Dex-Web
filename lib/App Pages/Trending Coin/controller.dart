@@ -1,4 +1,4 @@
-import '../Services/NetworkServices.dart';
+import '../../Services/NetworkServices.dart';
 
 Future<dynamic> trending() async {
   final trend_coin = NetworkService();
