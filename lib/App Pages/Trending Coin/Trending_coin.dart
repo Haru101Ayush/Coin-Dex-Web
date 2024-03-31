@@ -6,7 +6,7 @@ import 'package:riverpod/riverpod.dart';
 
 import 'controller.dart';
 
-class  extends ConsumerStatefulWidget{
+class Trending_coin extends ConsumerStatefulWidget{
   @override
   ConsumerState<Trending_coin> createState() => _Trending_coinState();
 }
