@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455360450549",
+    "project_id": "coindex-4870e",
+    "storage_bucket": "coindex-4870e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455360450549:android:ad111caf6b0a2d64bcdabc",
+        "android_client_info": {
+          "package_name": "com.example.coindex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKmzLi4BYMm06HH1sOb2JmbksgjUxJ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
