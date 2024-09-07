@@ -95,9 +95,9 @@ class _SwapScreenState extends State<SwapScreen> {
             Color.fromARGB(255, 36, 37, 39)
           ], begin: Alignment.topCenter, end: Alignment.bottomCenter),
           borderRadius: BorderRadius.only(
-            topLeft: Radius.circular(20.r), // Set top-left corner radius
+            topLeft: Radius.circular(20.r), 
             topRight: Radius.circular(20.r),
-            // color: const Color.fromARGB(255, 94, 111, 124),
+            
           )),
       child: Column(
         children: [
